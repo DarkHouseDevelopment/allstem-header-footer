@@ -3,9 +3,9 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>AllSTEM Header &amp; Footer</title>
-    <link rel="stylesheet" href="header-footer.css"/>
+    <link rel="stylesheet" href="header-footer.min.css"/>
     <script src="navigation.min.js" type="module" defer></script>
-    <script src="header-footer.js" defer></script>
+    <script src="header-footer.min.js" defer></script>
   </head>
   <body class="header-sticky smooth-scroll" style="margin:0;padding:0;">
     <?php include 'header.html'; ?>
